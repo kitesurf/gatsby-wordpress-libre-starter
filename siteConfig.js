@@ -3,22 +3,22 @@ module.exports = {
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "Built with Draftbox", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "All for kite", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta: "New-age blogging platform", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "Built with Draftbox", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "All for kite", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://all-for-kite.com",
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Draftbox",
+    title: "Subscribe to All for kite",
     helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Draftbox.",
+    successMessage: "Thanks for subscribing to all for kite.",
   },
   header: {
     navigation: [
@@ -33,7 +33,7 @@ module.exports = {
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "All for kite",
     navigation: [
       {
         label: "Home",
@@ -71,31 +71,31 @@ module.exports = {
     externalLink: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact your watersport team",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "All for kite",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "All for your loved watersport.",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "All for kite",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "All for your loved watersport.",
     imageUrl: "twitterImage.png",
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "All for kite",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "All for your loved watersport.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "All for kite",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "All for your loved watersport.",
   language: "en",
   logoUrl: "logo.png",
   iconUrl: "favicon.png",

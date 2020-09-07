@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://wp-libre-preview.draftbox.co", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://musing-wright-92ca18.netlify.app", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
@@ -13,7 +13,7 @@ module.exports = {
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
-  apiUrl: "https://wordpress.theasdfghjkl.com",
+  apiUrl: "https://all-for-kite.com",
   subscribeWidget: {
     visible: true,
     title: "Subscribe to Draftbox",
@@ -24,7 +24,7 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-libre-preview.draftbox.co/",
+        url: "https://musing-wright-92ca18.netlify.app/",
       },
       {
         label: "Contact",
@@ -37,19 +37,19 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-libre-preview.draftbox.co/",
+        url: "https://musing-wright-92ca18.netlify.app/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-libre-preview.draftbox.co/sitemap.xml",
+        url: "https://musing-wright-92ca18.netlify.app/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-libre-preview.draftbox.co/rss.xml",
+        url: "https://musing-wright-92ca18.netlify.app/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://wp-libre-preview.draftbox.co/contact",
+        url: "https://musing-wright-92ca18.netlify.app/contact",
       },
       {
         label: "External Link",
